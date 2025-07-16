@@ -48,6 +48,9 @@
 /Assets/Samples.meta
 /Recordings
 
+/Assets/SceneDependencyCache/
+/Assets/SceneDependencyCache.meta
+
 # Utility
 
 /Assets/Scenes/Chunks (generated)
